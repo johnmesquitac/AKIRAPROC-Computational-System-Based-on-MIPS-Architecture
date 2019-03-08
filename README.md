@@ -1,4 +1,4 @@
-# Computational-System-Based-on-MIPS-Architecture
+#AKIRAPROC-Computational-System-Based-on-MIPS-Architecture
 
 Functional CPU(Computational System) designed in VERILOG HDL
 
